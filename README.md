@@ -3,9 +3,11 @@
 
 ## Overview
 
-This project explores robust methods for determining the optimal number of components to retain in **Principal Component Analysis (PCA)** using **Prediction Error Sum of Squares (PRESS)** and its robust variant **R-PRESS**. Standard methods like the elbow method or percentage of variance explained are not ideal when prediction accuracy or robustness is of primary interest. This work implements and evaluates a fast, robust approach to computing PRESS values, especially for high-dimensional data.
+This project explores robust methods for determining the optimal number of components to retain in **Principal Component Analysis (PCA)** using **Prediction Error Sum of Squares (PRESS)** and its robust variant **R-PRESS**. 
+Standard methods like the elbow method or percentage of variance explained are not ideal when prediction accuracy or robustness is of primary interest. This work implements and evaluates a fast, robust approach to computing PRESS values,
+especially for high-dimensional data.
 
-This project was conducted as part of the **Robust Statistics (G0B16)** course during Spring 2022.
+This project was conducted as part of the **Robust Statistics** course during Spring 2022.
 
 ## Contents
 
@@ -59,7 +61,6 @@ To run the analysis:
 ## Contributors
 
 - Group 7, Robust Statistics (Spring 2022)
-- Course Instructors: Peter Rousseeuw, Ioannis Kalogridis, Jordy Menvouta
 
 ## License
 
