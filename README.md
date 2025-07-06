@@ -9,7 +9,7 @@ This project was conducted as part of the **Robust Statistics (G0B16)** course d
 
 ## Contents
 
-- 📄 `report.pdf` — Full project report with theoretical background, simulations, and application.
+- 📄 `group7 - report_comments.pdf` — Full project report with theoretical background, simulations, and application.
 - 🧪 R scripts — Code for simulations, method implementation, and data analysis.
 - 📊 Plots — Visual comparisons of PRESS vs. R-PRESS and application results.
 - 📁 `data/` — (Optional) Folder containing datasets used in the project.
